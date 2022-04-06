@@ -1,0 +1,61 @@
+body{
+    background-image: url(discoloco1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1, h2{
+    color: white;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+#nav{
+    font-family: "Lucida Console", "Courier New", monospace;
+    background-color: rgb(169, 169, 180);
+    padding: 10px;
+    margin: 10px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+button{
+    background-color: white;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+    width: 200px;
+    height: 80px;
+    font-size: 18px;
+}
+.credits{
+    font-size: 40px;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+.breed{
+    font-size: 25px;
+    color: pink;
+    font-family:'Courier New', Courier, monospace;
+}
+.intro{
+    background-color: steelblue;
+    opacity: 0.9;
+    font-size: 20px;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+
+table{
+    border: 1px solid white;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    color: pink;
+
+}
+td{
+    border: 1px solid white;
+    padding: 5px;
+    font-family: Arial, sans-serif;
+}
+div{
+    color: white;
+    font-family: Arial, sans-serif;
+}

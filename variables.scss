@@ -1,0 +1,42 @@
+$color: brown;
+
+h1, h2{
+  color: white;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+body {
+  background-image: url(discopak.JPG);
+  background-repeat: no-repeat;
+  background-size: 100%; }
+
+.row > div {
+  padding: 20px;
+  background-color: $color;
+  border: 2px solid black; }
+
+  
+    .whew{
+        font-family: sans-serif;
+        .whow{
+            font-family:'Times New Roman', Times, serif;
+            .whaw{
+                font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                color: white;
+            }
+        }
+    }
+  
+#container {
+  display: flex;
+  flex-wrap: wrap; }
+
+#container > div {
+  background-color: $color;
+  font-size: 20px;
+  margin: 20px;
+  padding: 20px;
+  width: 200px; }
+
+/*# sourceMappingURL=variables.css.map */
